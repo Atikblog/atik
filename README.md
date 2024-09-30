@@ -1,8 +1,6 @@
 
-     <html>
-    
-    
-         <head>
+<html>
+    <head>
         <style>
         ul {
           list-style-type: none;
@@ -165,5 +163,4 @@ body {
   
 
 </html>
-
 
